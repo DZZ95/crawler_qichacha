@@ -20,7 +20,7 @@ class crawler_qichacha(object):
             'X-Requested-With': 'XMLHttpRequest',
             'Connection': 'keep-alive',
             'Referer': 'https://www.qichacha.com/search?key=%E6%BF%80%E5%85%89%E8%B7%9F%E8%B8%AA',
-            'Cookie': '自己的Cookie',
+            'Cookie': '需要换成自己的Cookie',
             'Cache-Control': 'max-age=0',
             'TE': 'Trailers'
         }
