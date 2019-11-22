@@ -20,7 +20,7 @@ class crawler_qichacha(object):
             'X-Requested-With': 'XMLHttpRequest',
             'Connection': 'keep-alive',
             'Referer': 'https://www.qichacha.com/search?key=%E6%BF%80%E5%85%89%E8%B7%9F%E8%B8%AA',
-            'Cookie': 'zg_did=%7B%22did%22%3A%20%2216dcf5b36849-0acc1f866a0e9c8-14377840-100200-16dcf5b36877f%22%7D; zg_de1d1a35bfa24ce29bbf2c7eb17e6c4f=%7B%22sid%22%3A%201574253594295%2C%22updated%22%3A%201574255416742%2C%22info%22%3A%201574226976627%2C%22superProperty%22%3A%20%22%7B%7D%22%2C%22platform%22%3A%20%22%7B%7D%22%2C%22utm%22%3A%20%22%7B%7D%22%2C%22referrerDomain%22%3A%20%22www.qichacha.com%22%2C%22zs%22%3A%200%2C%22sc%22%3A%200%2C%22cuid%22%3A%20%22012047e52037bfd103590415c80398e8%22%7D; UM_distinctid=16dcf5b97129-0de9b2548694b1-14377840-100200-16dcf5b97132c; CNZZDATA1254842228=368439251-1571137487-https%253A%252F%252Fwww.baidu.com%252F%7C1574252367; Hm_lvt_3456bee468c83cc63fb5147f119f1075=1574226978,1574245244; _uab_collina=157114198527205044688737; QCCSESSID=r8bmkbqp7ju3dpitkqlm81shg2; acw_tc=7a0e2b1915742269772534926e95a3d3833e1a95f6ff1766dfd587a985; hasShow=1; Hm_lpvt_3456bee468c83cc63fb5147f119f1075=1574255416',
+            'Cookie': '自己的Cookie',
             'Cache-Control': 'max-age=0',
             'TE': 'Trailers'
         }
